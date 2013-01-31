@@ -40,7 +40,8 @@
         <version.org.jboss.resteasy>2.3.5.Final</version.org.jboss.resteasy>
 
         <!-- Other dependency versions -->
-        <version.org.apache.httpcomponents>4.1.4-redhat-2</version.org.apache.httpcomponents>
+        <!-- <version.org.apache.httpcomponents>4.1.4-redhat-2</version.org.apache.httpcomponents> -->
+        <version.org.apache.httpcomponents>4.1.4</version.org.apache.httpcomponents>
         <version.junit>4.10</version.junit>
 
         <!-- other plugin versions -->
